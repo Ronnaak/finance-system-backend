@@ -9,7 +9,7 @@ Supports CRUD operations, filtering, summaries, and role-based access.
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone <https://github.com/Ronnaak/finance-system-backend.git>
 cd finance-backend
 
 # Install dependencies
