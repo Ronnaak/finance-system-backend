@@ -2,6 +2,7 @@ fastapi==0.110.0
 uvicorn==0.29.0
 sqlalchemy==2.0.29
 pydantic==2.6.4
+pydantic-core==2.16.3
 alembic==1.13.1
 python-dotenv==1.0.1
 starlette==0.36.3
